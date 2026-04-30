@@ -1,4 +1,4 @@
-# Privacidade
+# Privacidade por @gnireorb
 ## Navegador
 - Firefox + [arkenfox/user.js](https://github.com/arkenfox/user.js/)
 - Mullvad Browser
